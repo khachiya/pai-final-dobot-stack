@@ -1,0 +1,18 @@
+s000 cmd=-0.04 suc=0 carry=0 tipz=0.130 gap=+0.088 dxy=0.052 armed=0 asst=0
+s001 cmd=-0.01 suc=0 carry=0 tipz=0.110 gap=+0.068 dxy=0.033 armed=0 asst=0
+s002 cmd=-0.01 suc=0 carry=0 tipz=0.098 gap=+0.056 dxy=0.015 armed=0 asst=0
+s003 cmd=-0.03 suc=0 carry=0 tipz=0.078 gap=+0.036 dxy=0.015 armed=0 asst=0
+s004 cmd=+0.97 suc=0 carry=0 tipz=0.058 gap=+0.016 dxy=0.015 armed=0 asst=0
+s005 cmd=+1.01 suc=1 carry=1 tipz=0.037 gap=-0.003 dxy=0.000 armed=1 asst=1
+s006 cmd=+1.01 suc=1 carry=1 tipz=0.057 gap=-0.001 dxy=0.000 armed=1 asst=0
+s007 cmd=+1.01 suc=1 carry=1 tipz=0.077 gap=-0.001 dxy=0.000 armed=1 asst=0
+s008 cmd=+1.01 suc=1 carry=1 tipz=0.097 gap=-0.001 dxy=0.000 armed=1 asst=0
+s009 cmd=+1.02 suc=1 carry=1 tipz=0.117 gap=-0.001 dxy=0.000 armed=1 asst=0
+s010 cmd=+1.02 suc=1 carry=1 tipz=0.134 gap=-0.001 dxy=0.000 armed=1 asst=0
+s011 cmd=+1.02 suc=1 carry=1 tipz=0.136 gap=-0.001 dxy=0.000 armed=1 asst=0
+s012 cmd=+1.02 suc=1 carry=1 tipz=0.134 gap=-0.001 dxy=0.000 armed=1 asst=0
+s013 cmd=+1.01 suc=1 carry=1 tipz=0.133 gap=-0.001 dxy=0.000 armed=1 asst=0
+s014 cmd=+1.01 suc=1 carry=1 tipz=0.133 gap=-0.001 dxy=0.000 armed=1 asst=0
+s015 cmd=+1.01 suc=1 carry=1 tipz=0.132 gap=-0.001 dxy=0.000 armed=1 asst=0
+s016 cmd=+1.01 suc=1 carry=1 tipz=0.132 gap=-0.001 dxy=0.000 armed=1 asst=0
+s016 SUCCESS
