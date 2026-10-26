@@ -1,6 +1,6 @@
 # pai-final-dobot-stack — Dobot Magician 仕分けピック＆プレースの模倣学習
 
-Physical AI 応用講座 最終課題。Dobot Magician 風モデルを用いた PyBullet
+Physical AI 応用編1 最終課題。Dobot Magician 風モデルを用いた PyBullet
 シミュレーション環境で、「赤箱は左・青箱は右のスタックへ運ぶ」言語条件付き
 仕分けタスクを模倣学習（ACT）で獲得するパイプライン。
 実機所有を前提に Sim2Real を目標としたが、Sim の完成度向上を優先し、
@@ -11,7 +11,7 @@ Physical AI 応用講座 最終課題。Dobot Magician 風モデルを用いた 
 - 提出動画：`video/pai_final_rollout_v8.mp4`（166.6秒・16/16成功・説明スライド付き、
   接触クローズアップ＋GRABBED表示＋接触スロー再生×3）
 - 真横検証映像：`video/side_view_v6.mp4`（水平視点で接触・中央寄せを確認）
-- 説明資料：`説明資料_PAI最終課題.md`（PDF化して提出）
+- 説明資料：`説明資料_PAI最終課題.md`
 - 評価：厳格な接触ゲート条件で **16/20（80%）**（赤 8/10・青 8/10）
 
 ## 構成
